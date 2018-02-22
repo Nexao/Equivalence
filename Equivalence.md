@@ -71,7 +71,7 @@ Years can't be tested, as the range is unlimited
 
 Decision table
 
-![alt text](http://prntscr.com/iibvyj)
+![alt text](https://scontent-amt2-1.xx.fbcdn.net/v/t34.0-12/28313511_10215695830247122_556857351_n.png?oh=938e1d0a33e46c416baad4cc8bbe0300&oe=5A90F739)
 
 # H1 State Transition
 
