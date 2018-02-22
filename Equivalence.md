@@ -71,26 +71,7 @@ Years can't be tested, as the range is unlimited
 
 Decision table
 
-1.
--------------------------------
-|# Conditions --------------------
-|Hospital   | +  | +  | -  |  - |
-|Doctor     | +  | -  | +  |  - |
-|# Actions    --------------------
-|0%         | -  | -  | -  | +  |
-|50%        | -  | -  | +  | -  |
-|80%        | +  | +  | -  | -  |
-
-
-2.
-
-|# Conditions ------------------------------------------------------
-|Leap years             | +  | +  | +  |  - | -  |  -  |  +  |  -  |
-|divisible by 100       | +  | +  | -  |  + | -  |  -  |  -  |  +  |
-|divisible by 400       | +  | -  | -  |  + | -  |  +  |  +  |  -  | 
-|# Actions    ------------------------------------------------------
-|Leap Years             | +  | +  | +  | -  | -  | -   |  +  | -   |
-
+![alt text](http://prntscr.com/iibvyj)
 
 # H1 State Transition
 
